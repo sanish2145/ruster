@@ -11,6 +11,7 @@ function About() {
           </div>
           <div className="md:w-1/2 md:pl-8">
             <p className="text-lg mb-4">
+Hello it's me sanish Bhandari.
               I'm a passionate web developer with experience in building modern, responsive websites using React, Tailwind CSS, and more.
               I love creating user-friendly interfaces and solving complex problems.
             </p>
